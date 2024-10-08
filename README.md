@@ -1,7 +1,40 @@
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Mauricio Avalo</h1></summary>
+  </ul>
+</div>
+
 # 💫 About Me:
-- Hello! I'm a passionate 20-year-old programmer constantly seeking new challenges and learning opportunities. Currently, I'm studying Computer Science and specializing in various languages and technologies, including Laravel, PHP, MySQL, Java, and C/C++.
+- I'm a passionate 21-year-old programmer constantly seeking new challenges and learning opportunities. Currently, I'm studying Computer Science and specializing in various languages and technologies, including Laravel, PHP, MySQL, Java and C/C++.
 - My main focus is on developing innovative and efficient solutions that drive technological progress. I love working in teams and contributing fresh ideas to solve complex problems.
 - I'm excited to participate in projects that challenge my skills and allow me to grow professionally. If you're looking for a committed, creative developer eager to make a positive impact, please contact me! I'm ready to bring my passion and experience to your team.
+
+# 📊 Personal Stats:
+<!--- stats & Trophy (start) -->
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=elMauro2003&theme=tokyonight&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=elMauro2003&theme=tokyonight&hide_border=false" /> 
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=elMauro2003&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+</p>
 
 # 👨🏻‍💻 Technologies That I Know:
 <!--tech stack icons-->
@@ -27,29 +60,6 @@
     <a href="https://discordapp.com/users/1138613948174839879" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
 </p>
 
-# 📊 Personal Stats:
-<!--- stats & Trophy (start) -->
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=elMauro2003&theme=tokyonight&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=elMauro2003&theme=tokyonight&hide_border=false" /> 
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=elMauro2003&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
-</p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=elMauro2003&theme=nord&no-frame=false&no-bg=true&margin-w=4)
