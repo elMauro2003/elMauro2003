@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hello! I'm a passionate 20-year-old programmer constantly seeking new challenges and learning opportunities. Currently, I'm studying Computer Science and specializing in various languages and technologies, including Laravel, PHP, MySQL, Java, and C/C++.<br><br>My main focus is on developing innovative and efficient solutions that drive technological progress. I love working in teams and contributing fresh ideas to solve complex problems.<br><br>I'm excited to participate in projects that challenge my skills and allow me to grow professionally. If you're looking for a committed, creative developer eager to make a positive impact, please contact me! I'm ready to bring my passion and experience to your team.
+- Hello! I'm a passionate 20-year-old programmer constantly seeking new challenges and learning opportunities. Currently, I'm studying Computer Science and specializing in various languages and technologies, including Laravel, PHP, MySQL, Java, and C/C++.
+- My main focus is on developing innovative and efficient solutions that drive technological progress. I love working in teams and contributing fresh ideas to solve complex problems.
+- I'm excited to participate in projects that challenge my skills and allow me to grow professionally. If you're looking for a committed, creative developer eager to make a positive impact, please contact me! I'm ready to bring my passion and experience to your team.
 
 # 👨🏻‍💻 Technologies That I Know:
 <!--tech stack icons-->
@@ -25,7 +27,7 @@ Hello! I'm a passionate 20-year-old programmer constantly seeking new challenges
     <a href="https://discordapp.com/users/1138613948174839879" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
 </p>
 
-# 📊 GitHub Stats:
+# 📊 Personal Stats:
 <!--- stats & Trophy (start) -->
 <!--- stats & Trophy (start) -->
 <p align="center">
