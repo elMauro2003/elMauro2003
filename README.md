@@ -8,7 +8,6 @@ Hello! I'm a passionate 20-year-old programmer constantly seeking new challenges
     <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,php,phpstorm,laravel,vue,vuetify,postgres,mysql,docker,postman,git,github,java,idea,c,cpp,vscode,kubernetes&perline=14" />
   </a>
 </p>
-</div>
 
 <div id="user-content-toc">
   <ul align="center">
@@ -28,24 +27,26 @@ Hello! I'm a passionate 20-year-old programmer constantly seeking new challenges
 
 # 📊 GitHub Stats:
 
+<!--- stats & Trophy (start) -->
 <p align="center">
-    <!--- stats (start) -->
-  <table align="center">
-  <tr border="none">
-  <td width="50%" align="center">
-    
-    <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=elMauro2003&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" />
-    <br></br>
-    <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=elMauro2003&theme=tokyonight&hide_border=false" /> 
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=1010nishant&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&theme=dark&hide_border=false" /> 
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
   </td>
-  
-  <td width="50%" align="center">
-  
-    <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=elMauro2003&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-    
-    </td>
-  </tr>
-  </table>
+</tr>
+</table>
+<!--- stats (end) -->
 </p>
 
 ## 🏆 GitHub Trophies
