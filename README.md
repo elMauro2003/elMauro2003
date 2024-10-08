@@ -8,7 +8,7 @@
 </div>
 
 # 💫 About Me:
-- I'm a passionate 21-year-old programmer constantly seeking new challenges and learning opportunities. Currently, I'm studying Computer Science and specializing in various languages and technologies, including Laravel, PHP, MySQL, Java and C/C++.
+- I'm a passionate 21-year-old programmer constantly seeking new challenges and learning opportunities. Currently, I'm studying Computer Science and specializing in various languages and technologies, including PHP, Laravel, MySQL, Java and C/C++.
 - My main focus is on developing innovative and efficient solutions that drive technological progress. I love working in teams and contributing fresh ideas to solve complex problems.
 - I'm excited to participate in projects that challenge my skills and allow me to grow professionally. If you're looking for a committed, creative developer eager to make a positive impact, please contact me! I'm ready to bring my passion and experience to your team.
 
@@ -40,7 +40,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,php,phpstorm,laravel,vue,vuetify,postgres,mysql,docker,postman,git,github,java,idea,c,cpp,vscode,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,php,phpstorm,laravel,vue,vuetify,postgres,mysql,docker,postman,git,github,java,idea,c,cpp,vscode&perline=14" />
   </a>
 </p>
 
