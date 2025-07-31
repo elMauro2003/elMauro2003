@@ -21,7 +21,7 @@
 <br></br>
 </p>
 
-# 🚀 Technologies That I Know:
+# 🚀 My Tech Stack:
 
 <p align="left">
     <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,tailwind,vue,vuetify" />
