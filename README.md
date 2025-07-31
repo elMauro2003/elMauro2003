@@ -19,7 +19,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=elMauro2003&theme=github_dark&hide_border=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elMauro2003&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
 <br></br>
-<img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=elMauro2003&theme=tokyonight&hide_border=false" />   
 </p>
 
 # 🚀 Technologies That I Know:
