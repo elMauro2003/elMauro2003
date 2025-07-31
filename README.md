@@ -8,7 +8,7 @@
 </div>
 
 # 👨🏻‍💻 About Me:
-- 🌱 I'm a passionate 21-year-old programmer constantly seeking new challenges and learning opportunities. Currently, I'm studying Computer Science and specializing in various languages and technologies, including Python with Django and PHP with Laravel.
+- 🌱 I'm a passionate 22-year-old programmer constantly seeking new challenges and learning opportunities. Currently, I'm studying Computer Science and specializing in various languages and technologies, including Python with Django and PHP with Laravel.
 - 📐 My main focus is on developing innovative and efficient solutions that drive technological progress. I love working in teams and contributing fresh ideas to solve complex problems.
 - 👥 I'm excited to participate in projects that challenge my skills and allow me to grow professionally. If you're looking for a committed, creative developer eager to make a positive impact, please contact me! I'm ready to bring my passion and experience to your team.
 
