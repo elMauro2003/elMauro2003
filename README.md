@@ -21,7 +21,10 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=elMauro2003&theme=tokyonight&show_icons=true&count_private=true" />
+  <!--<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=elMauro2003&theme=tokyonight&show_icons=true&count_private=true" />-->
+  <img src="https://github-readme-stats.vercel.app/api?username=elMauro2003&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=elMauro2003&theme=github_dark&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elMauro2003&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=elMauro2003&theme=tokyonight&hide_border=false" /> 
 </td>
@@ -44,13 +47,23 @@
   </a>
 </p>
 
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,tailwind,vue,vuetify" />
+</p>
+
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=python,django,fastapi,php,laravel,mysql,postgres,sqlite" />
+</p>
+
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=git,github,postman,redis,cloudflare,docker,kubernetes,jenkins" />
+</p>
+
 <div id="user-content-toc">
-  <ul align="center">
+  <ul align="left">
     <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
   </ul>
 </div>
-
-
 
 <!--icons and links-->
 <p align="center">
