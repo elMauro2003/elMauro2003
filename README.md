@@ -13,39 +13,16 @@
 - 👥 I'm excited to participate in projects that challenge my skills and allow me to grow professionally. If you're looking for a committed, creative developer eager to make a positive impact, please contact me! I'm ready to bring my passion and experience to your team.
 
 # 📊 Personal Stats:
-<!--- stats & Trophy (start) -->
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <!--<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=elMauro2003&theme=tokyonight&show_icons=true&count_private=true" />-->
-  <img src="https://github-readme-stats.vercel.app/api?username=elMauro2003&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=elMauro2003&theme=github_dark&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elMauro2003&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=elMauro2003&theme=tokyonight&hide_border=false" /> 
-</td>
 
-<td width="50%" align="center">
-
-  <!--<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=elMauro2003&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>-->
-  
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=elMauro2003&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=elMauro2003&theme=github_dark&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elMauro2003&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+<br></br>
+<img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=elMauro2003&theme=tokyonight&hide_border=false" />   
 </p>
 
 # 🚀 Technologies That I Know:
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,php,phpstorm,laravel,vue,vuetify,postgres,mysql,docker,postman,git,github,java,idea,c,cpp,vscode&perline=14" />
-  </a>
-</p>
 
 <p align="left">
     <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,tailwind,vue,vuetify" />
